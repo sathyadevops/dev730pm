@@ -1,5 +1,7 @@
-
-
+void fundsTran{}
+{
+  void deposite0
+}
 void withdraw)
 {
    bal=bal+amt;
