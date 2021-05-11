@@ -8,6 +8,29 @@ void SUB()
 }
 
 
+void MUL()
+{
+  A=B*C
+}
+void DIV()
+{
+  A=B/C
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void getData()
 {
   printf(" Hello! ");

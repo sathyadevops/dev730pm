@@ -1,3 +1,9 @@
+
+void Deposite()
+{
+   bal=bal+amt;
+}
+
 class demo
 {
   public static void main()
