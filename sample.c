@@ -1,3 +1,13 @@
+void ADD()
+{
+  A=B+C
+}
+void SUB()
+{
+  A=B-C
+}
+
+
 void getData()
 {
   printf(" Hello! ");
