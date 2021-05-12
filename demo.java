@@ -1,3 +1,35 @@
+void Method-1()
+{
+  Method-1....
+  Method-1....
+  Method-1....
+  Method-1....
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void demo()
 {
   ........ Demo code.......
