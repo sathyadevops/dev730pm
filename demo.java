@@ -1,4 +1,9 @@
-
+void demo()
+{
+  ........ Demo code.......
+  ........ Demo code.......
+  ........ Demo code.......
+}
 void Deposite()
 {
    bal=bal+amt;
