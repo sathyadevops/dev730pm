@@ -1,3 +1,20 @@
+class DevOps
+{
+  public static void main()
+  {
+  
+     ANSIBLE 
+	     PUPPET
+	     CHEF
+	     DOCKER
+	     K8
+  }
+}
+
+
+
+
+
 void Method-2()
 {
   Method-2...
